@@ -14,11 +14,11 @@ name_list = names.words()
 # sdfj sdfp oijasf wperj weksdfp asdf ppidfm the sdf pasldfnasd is sdmfpoi we
 
 string = "junk"
-# word_count
+word_count = 0
 if string in word_list or string in name_list:
     word_count = +1
     print("it worked")
-# else:
-#     print("I am not here")
+else:
+    print("I am not here")
 
 # if word_count > 60%
